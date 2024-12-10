@@ -1,5 +1,6 @@
 # This is a generated file; do not edit or check into version control.
 connectivity_plus=/Users/umesh/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.0/
+google_mobile_ads=/Users/umesh/.pub-cache/hosted/pub.dev/google_mobile_ads-5.2.0/
 path_provider=/Users/umesh/.pub-cache/hosted/pub.dev/path_provider-2.1.4/
 path_provider_android=/Users/umesh/.pub-cache/hosted/pub.dev/path_provider_android-2.2.12/
 path_provider_foundation=/Users/umesh/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/
@@ -12,3 +13,6 @@ video_player=/Users/umesh/.pub-cache/hosted/pub.dev/video_player-2.9.2/
 video_player_android=/Users/umesh/.pub-cache/hosted/pub.dev/video_player_android-2.7.13/
 video_player_avfoundation=/Users/umesh/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.6.2/
 video_player_web=/Users/umesh/.pub-cache/hosted/pub.dev/video_player_web-2.3.2/
+webview_flutter=/Users/umesh/.pub-cache/hosted/pub.dev/webview_flutter-4.9.0/
+webview_flutter_android=/Users/umesh/.pub-cache/hosted/pub.dev/webview_flutter_android-3.16.9/
+webview_flutter_wkwebview=/Users/umesh/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.16.3/

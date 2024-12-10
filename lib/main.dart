@@ -1,11 +1,21 @@
+import 'dart:io';
+
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:test_web/routes/app_pages.dart';
 import 'package:test_web/routes/app_routes.dart';
 import 'package:test_web/utils/colors.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
+  if (kIsWeb) {
+    // Some web specific code there
+  } else if(Platform.isAndroid && Platform.isIOS){
+    MobileAds.instance.initialize();
+
+  }
   runApp(const MyApp());
 }
 

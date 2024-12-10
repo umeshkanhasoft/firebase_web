@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:test_web/main_screen/state.dart';
-import 'package:test_web/model/movie_item.dart';
 import 'package:test_web/utils/colors.dart';
 
 import 'logic.dart';
